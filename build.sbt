@@ -1,4 +1,4 @@
-name := "Week 7 - Functional Programming in Scala"
+name := "Algebraic Data Types and Implicits"
 
 version := "1.0"
 
